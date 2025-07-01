@@ -1,19 +1,19 @@
-<h1 align="center">🚀 Welcome to My Space</h1>
-<h2 align="center">👽 T Y | Explorer of Code & The Unknown</h2>
+<h1 align="center">🚀 Welcome to My Digital Frontier</h1>
+<h2 align="center">👾 mrbishalbaniya | Voyager of Code & the Cosmos</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Cybernetic+Dreamer...;Code+is+the+New+Frontier...;Searching+the+Digital+Galaxy...;Hacking+Reality..." />
+  <img src="https://readme‑typing‑svg.herokuapp.com?color=00FFFF&lines=Cybernetic+Architect...;Code+is+the+New+Frontier...;Mapping+Digital+Galaxies...;Hacking+Tomorrow..." />
 </p>
 
 ---
 
 ### 🛸 **About Me**
 
-🧬 I’m not just a developer, I’m a traveler between digital dimensions.  
-🌌 Passionate about coding, cybersecurity, AI, and futuristic technology.  
-🛠️ Currently engineering tools that bend the boundaries of what’s possible.  
-🪐 Learning: Neural Networks, Blockchain, Cyber Defense.  
-☄️ Fun fact: My GitHub isn’t just a profile — it’s a **launchpad**.
+🧬 I’m not just a developer—I traverse digital realms and cosmic data streams.  
+🌌 Passionate about coding, cybersecurity, AI, and futuristic system design.  
+🛠️ Currently crafting next‑level tools that stretch the boundaries of possibility.  
+🪐 Learning: Neural Networks, Blockchain, Ethical Hacking.  
+☄️ Fun fact: My GitHub is more than a profile—it’s a **launchpad to tomorrow**.
 
 ---
 
@@ -30,47 +30,44 @@
 
 ---
 
-### 🛰️ **Current Missions**
+### 🛰️ **Active Missions**
 
-- 🔬 Building futuristic tools for subdomain enumeration: [SubSniper](https://github.com/ty007/SubSniper)  
-- 💡 Experimenting with AI-generated faceless YouTube videos  
-- 🛡️ Learning exploit development & ethical hacking  
-- 🌐 Designing sci-fi styled websites with Next.js  
+- 🔬 Engineering advanced tools for subdomain scanning and enumeration  
+- 🤖 Exploring AI‑driven automations for secure content creation  
+- 🛡️ Deep diving into exploit detection and penetration framework  
+- 🌐 Building sleek sci‑fi themed web experiences with Next.js  
 
 ---
 
-### 🌠 **Stats from the Digital Frontier**
+### 🌠 **Digital Frontier Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ty007&show_icons=true&theme=highcontrast" alt="Stats" />
+  <img src="https://github‑readme‑stats.vercel.app/api?username=mrbishalbaniya&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ty007&theme=highcontrast" alt="Streak" />
+  <img src="https://github‑readme‑streak‑stats.herokuapp.com/?user=mrbishalbaniya&theme=highcontrast" alt="Streak Stats" />
 </p>
 
 ---
 
 ### 🌌 **Transmission Log**
 
-🖖 If you're reading this, you're part of the resistance. The world is evolving... the line between machine and mind is blurring... stay curious, stay prepared.
+🖖 If you're here, you’re part of the resistance. Reality is evolving… code is consciousness… stay curious, stay powerful.
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400" alt="Hacker Gif">
+  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400" alt="Hacker GIF">
 </p>
 
 ---
 
-### 🛸 **Connect Across the Multiverse**
+### 📡 **Connect Across the Network**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212121?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)  
-
----
-
-> **“We are made of code... and curiosity.”**  
-> *— Unknown Cyber Traveler*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212121?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
 ---
 
+> **“We code not just for today, but to shape tomorrow’s reality.”**  
+> *— Unknown Cyber Voyager*
