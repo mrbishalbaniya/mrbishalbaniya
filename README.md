@@ -1,23 +1,26 @@
 <h1 align="center">🚀 Welcome to My Digital Frontier</h1>
-<h2 align="center">👾 mrbishalbaniya | Voyager of Code & the Cosmos</h2>
+<h2 align="center">👾 mrbishalbaniya | Explorer of Code & the Cosmos</h2>
 
 <p align="center">
-  <img src="https://readme‑typing‑svg.herokuapp.com?color=00FFFF&lines=Cybernetic+Architect...;Code+is+the+New+Frontier...;Mapping+Digital+Galaxies...;Hacking+Tomorrow..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Cybernetic+Architect...;Code+is+the+New+Frontier...;Mapping+Digital+Galaxies...;Hacking+Tomorrow..." />
 </p>
 
 ---
 
-### 🛸 **About Me**
+### 🧭 About Me
 
-🧬 I’m not just a developer—I traverse digital realms and cosmic data streams.  
-🌌 Passionate about coding, cybersecurity, AI, and futuristic system design.  
-🛠️ Currently crafting next‑level tools that stretch the boundaries of possibility.  
-🪐 Learning: Neural Networks, Blockchain, Ethical Hacking.  
-☄️ Fun fact: My GitHub is more than a profile—it’s a **launchpad to tomorrow**.
+I’m not just a developer—I’m a digital voyager navigating codebases, security systems, and future tech landscapes.
+
+- 💻 Passionate about software development, AI, cybersecurity, and futuristic system design  
+- 🛠️ Currently building next-gen tools to push the boundaries of what’s possible  
+- 🧠 Continuously exploring: Neural Networks, Blockchain, Ethical Hacking  
+- 🚀 Vision: To create secure, intelligent systems that drive meaningful change  
+
+> 💡 *My GitHub isn’t just a profile—it’s a launchpad to innovation.*
 
 ---
 
-### ⚙️ **Tech Stack & Arsenal**
+### ⚙️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-00CED1?style=flat&logo=python&logoColor=white" />
@@ -30,44 +33,40 @@
 
 ---
 
-### 🛰️ **Active Missions**
+### 🚀 Current Projects
 
-- 🔬 Engineering advanced tools for subdomain scanning and enumeration  
-- 🤖 Exploring AI‑driven automations for secure content creation  
-- 🛡️ Deep diving into exploit detection and penetration framework  
-- 🌐 Building sleek sci‑fi themed web experiences with Next.js  
+- 🔍 Developing intelligent subdomain enumeration and reconnaissance tools  
+- 🤖 Automating secure content pipelines with AI-powered workflows  
+- 🧪 Researching and testing exploit detection frameworks  
+- 🌐 Designing sleek, interactive, sci-fi-inspired web apps using Next.js  
 
 ---
 
-### 🌠 **Digital Frontier Stats**
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github‑readme‑stats.vercel.app/api?username=mrbishalbaniya&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrbishalbaniya&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   <br />
-  <img src="https://github‑readme‑streak‑stats.herokuapp.com/?user=mrbishalbaniya&theme=highcontrast" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbishalbaniya&theme=highcontrast" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🌌 **Transmission Log**
+### 🌐 Connect with Me
 
-🖖 If you're here, you’re part of the resistance. Reality is evolving… code is consciousness… stay curious, stay powerful.
+Let’s collaborate, build, and explore together:
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400" alt="Hacker GIF">
-</p>
-
----
-
-### 📡 **Connect Across the Network**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212121?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212121?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
 ---
 
-> **“We code not just for today, but to shape tomorrow’s reality.”**  
+### 📡 Final Transmission
+
+> **"We code not just for today, but to shape tomorrow’s reality."**  
 > *— Unknown Cyber Voyager*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400" alt="Hacker GIF" />
+</p>
