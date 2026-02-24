@@ -1,76 +1,15 @@
-<h1 align="center">🚀 Welcome to My Digital Frontier</h1>
-<h2 align="center">👾 mrbishalbaniya | Full-Stack Developer • Cybersecurity Explorer • Creative Technologist</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Exploring+Code+and+Cyber+Space...;Crafting+Secure+and+Modern+Web+Experiences...;Learning+Relentlessly...;Evolving+Through+Code..." />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrbishalbaniya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrbishalbaniya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrbishalbaniya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@bishalbaniya.com.np) 
 
----
-
-### 🧠 About Me
-
-Hi! I’m Bishal, a curious and driven developer based in Nepal. I blend creativity with code, exploring the ever-expanding universe of technology.
-
-- 💻 Web developer focused on building modern, responsive, and scalable web applications  
-- 🔐 Passionate about cybersecurity and ethical hacking — with hands-on research and exploration  
-- 🧠 Currently diving deep into neural networks, secure authentication systems, and automation tools  
-- ✨ I enjoy transforming ideas into functional tools that make an impact  
-- 🧗‍♂️ In my downtime, I hike, travel, and explore the digital wild — because curiosity doesn't stop at the keyboard
-
-> "For me, code isn’t just a skill — it’s a mindset, a medium, and a mission."
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrbishalbaniya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mrbishalbaniya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbishalbaniya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mrbishalbaniya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ⚙️ Skills & Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-00CED1?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-228B22?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=flat&logo=protonvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-</p>
-
----
-
-### 📡 Current Focus
-
-- 🧠 Enhancing my understanding of secure system design & web app defense  
-- 🧪 Experimenting with automation, ethical hacking labs, and real-world testing  
-- 🛠️ Building full-stack apps with Firebase, Next.js, and Tailwind CSS  
-- 🌍 Staying curious about AI, blockchain, and emerging technologies  
-- ✍️ Occasionally blogging and creating content around development & security tips
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrbishalbaniya&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbishalbaniya&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Let’s Connect
-
-Feel free to reach out — I’m always open to collaborating, learning, or just having a nerdy conversation:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212121?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-
----
-
-### 🧬 Final Note
-
-> **“We code not just to solve problems — but to imagine better realities.”**  
-> *— A Curious Mind with a Keyboard*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400" alt="Hacker GIF">
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
