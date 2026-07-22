@@ -1,4 +1,4 @@
-# 👋 Bishal Baniya | Software Developer
+# Bishal Baniya | Software Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Next.js+%26+Flutter+Expert;Open+Source+Contributor;Problem+Solver;Building+Digital+Solutions" alt="Typing SVG" />
@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuYm9ueW5pOHd5czZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnFwPWc/26tn33aiTi1jkl6H6/giphy.gif" width="380" />
 </p>
 
-## 🌐 Connectivity Matrix
+##  Connectivity Matrix
 
 <div align="center">
   <a href="mailto:me@bishalbaniya.com.np">
@@ -24,7 +24,7 @@
 
 <br>
 
-## 💻 Tech Stack Architecture
+##  Tech Stack Architecture
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 <br>
 
-## 📊 Performance Analytics
+##  Performance Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrbishalbaniya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
@@ -60,7 +60,7 @@
 
 <br>
 
-## 🔥 Contribution Metrics
+## Contribution Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbishalbaniya&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -68,7 +68,7 @@
 
 <br>
 
-## 🏆 Achievement Gallery
+##  Achievement Gallery
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrbishalbaniya&theme=tokyonight&no-frame=true&margin-w=4" />
@@ -76,7 +76,7 @@
 
 <br>
 
-## 📈 Development Activity Timeline
+##  Development Activity Timeline
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbishalbaniya&theme=tokyo-night&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=f7768e&area=true&hide_border=true&radius=10" width="100%" />
@@ -84,7 +84,7 @@
 
 <br>
 
-## 📜 Daily Developer Mantra
+## Daily Developer Mantra
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -92,7 +92,7 @@
 
 <br>
 
-## 🛡️ System Audit
+## System Audit
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrbishalbaniya&color=7AA2F7&style=for-the-badge&label=ACCESS+LOGS" alt="Visitor Count" />
