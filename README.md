@@ -1,107 +1,97 @@
-# Bishal Baniya | Software Developer
+ <div align="center">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Next.js+%26+Flutter+Expert;Open+Source+Contributor;Problem+Solver;Building+Digital+Solutions" alt="Typing SVG" />
-</div>
+# Hi, I'm Bishal Baniya 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuYm9ueW5pOHd5czZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JnFwPWc/26tn33aiTi1jkl6H6/giphy.gif" width="380" />
+### Full-Stack Developer | Building Useful Digital Products
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%26+React+Developer;Backend+%26+API+Development;Flutter+Mobile+Development;Always+Learning+%26+Building" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mrbishalbaniya&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mrbishalbaniya?style=flat-square&color=0EA5E9&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mrbishalbaniya?style=flat-square&color=0EA5E9&label=Stars" alt="Stars" />
 </p>
 
-##  Connectivity Matrix
-
-<div align="center">
-  <a href="mailto:me@bishalbaniya.com.np">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-  <a href="https://linkedin.com/in/mrbishalbaniya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>
-  <a href="https://bishalbaniya.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white&labelColor=333333" />
-  </a>
-</div>
-
-<br>
-
-##  Tech Stack Architecture
-
-<div align="center">
-
-### Frontend & Mobile Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
-
-### Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Database & Cloud
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+*Turning ideas into practical software, one commit at a time.*
 
 </div>
 
-<br>
+---
 
-##  Performance Analytics
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrbishalbaniya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbishalbaniya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbishalbaniya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mrbishalbaniya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+</td>
+</tr>
+</table>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbishalbaniya&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
 </div>
 
-<br>
+## 🧩 Tech Stack
 
-## Contribution Metrics
+### 💻 Frontend & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter" alt="Frontend and mobile technologies" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi,postgres,mongodb,mysql,redis" alt="Backend and database technologies" />
+</p>
+
+### 🛠️ Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,figma" alt="Development tools" />
+</p>
+
+## 🚀 What I Do
+
+- Build responsive web applications and interactive user interfaces.
+- Develop backend services, REST APIs, and database-driven applications.
+- Explore cross-platform mobile app development with Flutter.
+- Work with authentication, integrations, deployment, and application performance.
+- Learn new technologies by building practical projects.
+
+## 🌱 Currently Exploring
+
+- Better software architecture and clean code.
+- Scalable backend systems and API performance.
+- AI-powered applications and developer tools.
+- Open-source projects and reusable components.
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/mrbishalbaniya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://bishalbaniya.com.np">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/mrbishalbaniya">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbishalbaniya&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
-<br>
+**Build • Learn • Improve • Repeat**
 
-##  Achievement Gallery
+<sub>Designed with curiosity and a passion for software development.</sub>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrbishalbaniya&theme=tokyonight&no-frame=true&margin-w=4" />
-</div>
-
-<br>
-
-##  Development Activity Timeline
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbishalbaniya&theme=tokyo-night&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=f7768e&area=true&hide_border=true&radius=10" width="100%" />
-</div>
-
-<br>
-
-## Daily Developer Mantra
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br>
-
-## System Audit
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrbishalbaniya&color=7AA2F7&style=for-the-badge&label=ACCESS+LOGS" alt="Visitor Count" />
-  <br>
-  <b>Hacking the future, one line of code at a time.</b>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Built with precision • Optimized for performance • Open for collaboration</sub>
 </div>
